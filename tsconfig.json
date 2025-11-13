@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "config/web.config.ts", "app.config.ts", "config/ios.config.ts", "config/icons.config.ts", "config/fonts.config.ts", "config/android.config.ts"  ]
 }
